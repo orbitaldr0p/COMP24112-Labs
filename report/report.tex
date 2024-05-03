@@ -1,0 +1,72 @@
+\documentclass[a4paper]{article}
+\usepackage{geometry}
+% Set the margins
+\geometry{
+    a4paper,
+    total={170mm,257mm},
+    left=20mm
+}
+
+\usepackage{csvsimple}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+\lstset{style=mystyle}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\graphicspath{{./Images/}}
+
+\title{COMP24112 Lab Report}
+\author{Licheng Chen}
+
+\begin{document}
+\maketitle
+
+\section{Linear Classification via Gradient Descent}
+
+\subsection{Derivation of the training objection function}
+
+$$O = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. $$
+
+
+
+\subsection{Model Training and Testing}
+
+\subsection{Learning Rate Analysis}
+
+
+\section{Air Quality Analysis by Neural Network}
+
+\subsection{Model Selection}
+
+\subsection{Training Algorithm Comparison: SGD and ADAM}
+
+
+\section{Building A Robust MLP Regressor}
+
+
+\end{document}
