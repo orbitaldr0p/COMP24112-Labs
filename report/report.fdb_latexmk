@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1714924115.73913 "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" "report.pdf" "report" 1714924116.35511 0
-  "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" 1714924114.88881 3109 1b7de5da7da2035e3ddd2dfb512b910a ""
+["pdflatex"] 1714926830.79814 "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" "report.pdf" "report" 1714926831.67973 0
+  "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" 1714926830.56301 5171 b4697b7ad69fd68a8d5db79dc886c5e1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
@@ -72,8 +72,11 @@
   "Images/1.1.png" 1714923941.80396 36227 9aa666dbfb01cda2053cba37344cafd1 ""
   "Images/1.21.png" 1714923955.19736 63604 8b6c30b5f6887f6d15bfb7b16f90cf8e ""
   "Images/1.22.png" 1714923959.41405 69846 5a8d5f758246da8a4cd3aaa36096c0c1 ""
-  "report.aux" 1714924116.30216 1385 49a07f9b36140108d42e282b16c76094 "pdflatex"
-  "report.tex" 1714924114.88881 3109 1b7de5da7da2035e3ddd2dfb512b910a ""
+  "Images/1.23.png" 1714923962.86407 27516 6ab4c77d9d0b78adb1443f47eaa654c3 ""
+  "Images/2.11.png" 1714849621.1269 84219 4271b9e4255a7b8fa4b38308bf7b8567 ""
+  "Images/2.12.png" 1714849631.74364 51318 3d0063ba3e95e72a9bb3673cfea5d336 ""
+  "report.aux" 1714926831.62969 1833 385d7d8756e0fe67ae3a5cf5829291cf "pdflatex"
+  "report.tex" 1714926830.56301 5171 b4697b7ad69fd68a8d5db79dc886c5e1 ""
   (generated)
   "report.aux"
   "report.log"

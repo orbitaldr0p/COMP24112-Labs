@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  5 MAY 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  5 MAY 2024 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -254,32 +254,49 @@ Package pdftex.def Info: ./Images/1.1.png  used on input line 60.
 <./Images/1.21.png, id=17, 573.14125pt x 456.70625pt>
 File: ./Images/1.21.png Graphic file (type png)
 <use ./Images/1.21.png>
-Package pdftex.def Info: ./Images/1.21.png  used on input line 75.
+Package pdftex.def Info: ./Images/1.21.png  used on input line 72.
 (pdftex.def)             Requested size: 237.0141pt x 188.86752pt.
 <./Images/1.22.png, id=18, 586.19pt x 456.70625pt>
 File: ./Images/1.22.png Graphic file (type png)
 <use ./Images/1.22.png>
-Package pdftex.def Info: ./Images/1.22.png  used on input line 81.
+Package pdftex.def Info: ./Images/1.22.png  used on input line 78.
 (pdftex.def)             Requested size: 237.0141pt x 184.65839pt.
- [2 <./Images/1.1.png> <./Images/1.21.png> <./Images/1.22.png>] [3] [4] [5] (./report.aux)
+ [2 <./Images/1.1.png> <./Images/1.21.png> <./Images/1.22.png>]
+<./Images/1.23.png, id=23, 569.12625pt x 456.70625pt>
+File: ./Images/1.23.png Graphic file (type png)
+<use ./Images/1.23.png>
+Package pdftex.def Info: ./Images/1.23.png  used on input line 89.
+(pdftex.def)             Requested size: 241.84842pt x 194.08015pt.
+ [3 <./Images/1.23.png>]
+<./Images/2.11.png, id=27, 1193.45876pt x 577.15625pt>
+File: ./Images/2.11.png Graphic file (type png)
+<use ./Images/2.11.png>
+Package pdftex.def Info: ./Images/2.11.png  used on input line 106.
+(pdftex.def)             Requested size: 435.32419pt x 210.52377pt.
+<./Images/2.12.png, id=28, 1193.45876pt x 577.15625pt>
+File: ./Images/2.12.png Graphic file (type png)
+<use ./Images/2.12.png>
+Package pdftex.def Info: ./Images/2.12.png  used on input line 112.
+(pdftex.def)             Requested size: 435.32419pt x 210.52377pt.
+ [4 <./Images/2.11.png> <./Images/2.12.png>] [5] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6857 strings out of 476021
- 122536 string characters out of 5791229
- 1930493 words of memory out of 5000000
- 28931 multiletter control sequences out of 15000+600000
+ 6884 strings out of 476021
+ 123121 string characters out of 5791229
+ 1931493 words of memory out of 5000000
+ 28958 multiletter control sequences out of 15000+600000
  563242 words of font info for 53 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 67i,8n,77p,369b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,8n,77p,702b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (5 pages, 257829 bytes).
+Output written on report.pdf (5 pages, 382239 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
