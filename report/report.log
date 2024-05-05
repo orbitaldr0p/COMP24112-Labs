@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  3 MAY 2024 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  5 MAY 2024 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -243,32 +243,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 53.
+ [1
 
-
-Package caption Warning: Unused \captionsetup[sub] on input line 40.
-See the caption package documentation for explanation.
-
-[1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./report.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./Images/1.1.png, id=16, 632.3625pt x 493.845pt>
+File: ./Images/1.1.png Graphic file (type png)
+<use ./Images/1.1.png>
+Package pdftex.def Info: ./Images/1.1.png  used on input line 60.
+(pdftex.def)             Requested size: 241.84842pt x 188.86871pt.
+<./Images/1.21.png, id=17, 573.14125pt x 456.70625pt>
+File: ./Images/1.21.png Graphic file (type png)
+<use ./Images/1.21.png>
+Package pdftex.def Info: ./Images/1.21.png  used on input line 75.
+(pdftex.def)             Requested size: 237.0141pt x 188.86752pt.
+<./Images/1.22.png, id=18, 586.19pt x 456.70625pt>
+File: ./Images/1.22.png Graphic file (type png)
+<use ./Images/1.22.png>
+Package pdftex.def Info: ./Images/1.22.png  used on input line 81.
+(pdftex.def)             Requested size: 237.0141pt x 184.65839pt.
+ [2 <./Images/1.1.png> <./Images/1.21.png> <./Images/1.22.png>] [3] [4] [5] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6812 strings out of 476021
- 121594 string characters out of 5791229
- 1929493 words of memory out of 5000000
- 28887 multiletter control sequences out of 15000+600000
- 562943 words of font info for 52 fonts, out of 8000000 for 9000
+ 6857 strings out of 476021
+ 122536 string characters out of 5791229
+ 1930493 words of memory out of 5000000
+ 28931 multiletter control sequences out of 15000+600000
+ 563242 words of font info for 53 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 67i,6n,77p,369b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (1 page, 101369 bytes).
+ 67i,8n,77p,369b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (5 pages, 257829 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

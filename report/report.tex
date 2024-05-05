@@ -53,19 +53,47 @@
 $$O = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. $$
 
 
-
+\newpage
 \subsection{Model Training and Testing}
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.5\linewidth]{1.1.png}
+    \caption{\centering Graph of the cost and accuracy of training over iterations}
+\end{figure}
+
+The model produced by the run shown above had an accuracy of 0.9677 and a F1 score of 0.7241 when run on the test data.
+While initially very high, the cost of each iteration reduced dramatically, quickly falling below 100, before stabilising.
+In the first 25 iterations the accuracy was rather spiky, suggesting that the models parameters are oscillating around the optimal values, before stabilising in the later iterations.
+This is probably caused by the fact that I chose to initialise my weights as zeros instead of randomising them. As this behaviour was not observed when I used randomised weights.
 
 \subsection{Learning Rate Analysis}
 
+\begin{figure}[htbp]
+    \centering
+    \begin{subfigure}[b]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{1.21.png}
+        \caption{\centering Costs per iteration for various learning rates.}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{1.22.png}
+        \caption{\centering Accuracy per iteration for various learning rates.}
+    \end{subfigure}
+    \caption{\centering Comparison of costs and accuracy per iteration for various learning rates.}
+\end{figure}
 
+
+\newpage
 \section{Air Quality Analysis by Neural Network}
-
 \subsection{Model Selection}
 
+
+\newpage
 \subsection{Training Algorithm Comparison: SGD and ADAM}
 
-
+\newpage
 \section{Building A Robust MLP Regressor}
 
 
