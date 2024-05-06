@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  6 MAY 2024 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  6 MAY 2024 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,60 +282,60 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-<./Images/1.11.png, id=1, 632.3625pt x 493.845pt>
+)) [1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./Images/1.11.png, id=9, 632.3625pt x 493.845pt>
 File: ./Images/1.11.png Graphic file (type png)
 <use ./Images/1.11.png>
-Package pdftex.def Info: ./Images/1.11.png  used on input line 51.
+Package pdftex.def Info: ./Images/1.11.png  used on input line 48.
 (pdftex.def)             Requested size: 241.84842pt x 188.86871pt.
-<./Images/1.21.png, id=2, 573.14125pt x 456.70625pt>
+<./Images/1.21.png, id=10, 573.14125pt x 456.70625pt>
 File: ./Images/1.21.png Graphic file (type png)
 <use ./Images/1.21.png>
-Package pdftex.def Info: ./Images/1.21.png  used on input line 63.
+Package pdftex.def Info: ./Images/1.21.png  used on input line 60.
 (pdftex.def)             Requested size: 237.0141pt x 188.86752pt.
-<./Images/1.22.png, id=3, 586.19pt x 456.70625pt>
+<./Images/1.22.png, id=11, 586.19pt x 456.70625pt>
 File: ./Images/1.22.png Graphic file (type png)
 <use ./Images/1.22.png>
-Package pdftex.def Info: ./Images/1.22.png  used on input line 69.
+Package pdftex.def Info: ./Images/1.22.png  used on input line 66.
 (pdftex.def)             Requested size: 237.0141pt x 184.65839pt.
- [1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Images/1.11.png>]
-<./Images/1.23.png, id=21, 569.12625pt x 456.70625pt>
+ [2 <./Images/1.11.png>]
+<./Images/1.23.png, id=24, 569.12625pt x 456.70625pt>
 File: ./Images/1.23.png Graphic file (type png)
 <use ./Images/1.23.png>
-Package pdftex.def Info: ./Images/1.23.png  used on input line 80.
+Package pdftex.def Info: ./Images/1.23.png  used on input line 77.
 (pdftex.def)             Requested size: 241.84842pt x 194.08015pt.
- [2 <./Images/1.21.png> <./Images/1.22.png> <./Images/1.23.png>]
-<./Images/2.11.png, id=26, 1193.45876pt x 577.15625pt>
+ [3 <./Images/1.21.png> <./Images/1.22.png> <./Images/1.23.png>]
+<./Images/2.11.png, id=29, 1193.45876pt x 577.15625pt>
 File: ./Images/2.11.png Graphic file (type png)
 <use ./Images/2.11.png>
-Package pdftex.def Info: ./Images/2.11.png  used on input line 97.
+Package pdftex.def Info: ./Images/2.11.png  used on input line 94.
 (pdftex.def)             Requested size: 435.32419pt x 210.52377pt.
-<./Images/2.12.png, id=27, 1193.45876pt x 577.15625pt>
+<./Images/2.12.png, id=30, 1193.45876pt x 577.15625pt>
 File: ./Images/2.12.png Graphic file (type png)
 <use ./Images/2.12.png>
-Package pdftex.def Info: ./Images/2.12.png  used on input line 103.
+Package pdftex.def Info: ./Images/2.12.png  used on input line 100.
 (pdftex.def)             Requested size: 435.32419pt x 210.52377pt.
- [3 <./Images/2.11.png> <./Images/2.12.png>] [4] (./report.aux)
+ [4 <./Images/2.11.png> <./Images/2.12.png>] [5] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7328 strings out of 476021
- 127186 string characters out of 5791229
- 1935493 words of memory out of 5000000
- 29384 multiletter control sequences out of 15000+600000
+ 7330 strings out of 476021
+ 127242 string characters out of 5791229
+ 1936493 words of memory out of 5000000
+ 29386 multiletter control sequences out of 15000+600000
  569773 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 67i,9n,77p,723b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (4 pages, 374075 bytes).
+ 67i,16n,77p,723b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/_orbitaldrop/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (5 pages, 374092 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 268 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

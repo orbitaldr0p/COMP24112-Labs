@@ -20,29 +20,26 @@
 
 \begin{document}
 \maketitle
-
+\newpage
 \section{Linear Classification via Gradient Descent}
 
 \subsection{Derivation of the training objection function}
 
-$$O = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. $$
-
-$$O = \sum^N_{i=1}C\max\left(0, 1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. $$
-
-
-$$
-    O = \begin{cases}
-        \sum^N_{i=1}C(1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0) + \frac{1}{2}\mathbf{w}^T\mathbf{w} & \text{if w < 0}  \\
+\begin{align*}
+    O             & = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. \\
+    O             & = \sum^N_{i=1}C\max\left(0, 1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}.             \\
+    O             & =
+    \begin{cases}
+        \sum^N_{i=1}C(1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0) + \frac{1}{2}\mathbf{w}^T\mathbf{w} & \text{if } \mathbf{w} < 0 \\
         \frac{1}{2}\mathbf{w}^T\mathbf{w}                                                           & \text{otherwise}
-    \end{cases}
-$$
-
-$$
-    \frac{dO}{dw} = \begin{cases}
-        \sum^N_{i=1}(-Cy_i\mathbf{x}_i) + \mathbf{w} & \text{if w < 0}  \\
+    \end{cases}                      \\
+    \frac{dO}{d\mathbf{w}} & =
+    \begin{cases}
+        \sum^N_{i=1}(-Cy_i\mathbf{x}_i) + \mathbf{w} & \text{if } \mathbf{w} < 0 \\
         \mathbf{w}                                   & \text{otherwise}
     \end{cases}
-$$
+\end{align*}
+
 
 
 \subsection{Model Training and Testing}
