@@ -26,13 +26,13 @@
 \subsection{Derivation of the training objection function}
 
 \begin{align*}
-    O             & = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. \\
-    O             & = \sum^N_{i=1}C\max\left(0, 1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}.             \\
-    O             & =
+    O                      & = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\right)\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}. \\
+    O                      & = \sum^N_{i=1}C\max\left(0, 1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0\right) + \frac{1}{2}\mathbf{w}^T\mathbf{w}.             \\
+    O                      & =
     \begin{cases}
         \sum^N_{i=1}C(1 - y_i\mathbf{w}^T\mathbf{x}_i + y_iw_0) + \frac{1}{2}\mathbf{w}^T\mathbf{w} & \text{if } \mathbf{w} < 0 \\
         \frac{1}{2}\mathbf{w}^T\mathbf{w}                                                           & \text{otherwise}
-    \end{cases}                      \\
+    \end{cases}                               \\
     \frac{dO}{d\mathbf{w}} & =
     \begin{cases}
         \sum^N_{i=1}(-Cy_i\mathbf{x}_i) + \mathbf{w} & \text{if } \mathbf{w} < 0 \\
@@ -106,6 +106,6 @@ With a test MSE of 0.1983 and an \( R^2 \) score of 0.9108, ADAM appears to perf
 
 \newpage
 \section{Building A Robust MLP Regressor}
-
+I mostly reused the code from the previous section, but I used a pipeline instead and used different parameters.
 
 \end{document}
