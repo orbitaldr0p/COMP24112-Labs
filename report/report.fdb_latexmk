@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1714990325.68216 "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" "report.pdf" "report" 1714990326.05523 0
-  "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" 1714990325.5208 5193 6f03f991864b0e854085650d93d5edd2 ""
+["pdflatex"] 1714990601.11136 "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" "report.pdf" "report" 1714990601.48317 0
+  "/home/_orbitaldrop/Work/University/Machine Learning/Lab/report/report.tex" 1714990600.96947 5193 6f03f991864b0e854085650d93d5edd2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
@@ -70,13 +70,13 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713735123 6863069 664fb469a8b2e8c0fb3ff7a2f1d1f393 ""
   "/usr/local/texlive/2024/texmf.cnf" 1713735117.25225 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "Images/1.11.png" 1714990234.38023 35863 76d88c6b6b17f3f5322a71f75cdf3b5b ""
-  "Images/1.21.png" 1714923955.19736 63604 8b6c30b5f6887f6d15bfb7b16f90cf8e ""
-  "Images/1.22.png" 1714923959.41405 69846 5a8d5f758246da8a4cd3aaa36096c0c1 ""
-  "Images/1.23.png" 1714923962.86407 27516 6ab4c77d9d0b78adb1443f47eaa654c3 ""
+  "Images/1.21.png" 1714990548.37594 61372 d391d0094347b2676d127545e1aca76a ""
+  "Images/1.22.png" 1714990552.42595 66555 d452bf74f8cd605478d21c8edc04a698 ""
+  "Images/1.23.png" 1714990562.72933 27831 a1f118a570c9016adae15e6e1ae2354c ""
   "Images/2.11.png" 1714849621.1269 84219 4271b9e4255a7b8fa4b38308bf7b8567 ""
   "Images/2.12.png" 1714849631.74364 51318 3d0063ba3e95e72a9bb3673cfea5d336 ""
-  "report.aux" 1714990326.03414 1833 385d7d8756e0fe67ae3a5cf5829291cf "pdflatex"
-  "report.tex" 1714990325.5208 5193 6f03f991864b0e854085650d93d5edd2 ""
+  "report.aux" 1714990601.45948 1833 385d7d8756e0fe67ae3a5cf5829291cf "pdflatex"
+  "report.tex" 1714990600.96947 5193 6f03f991864b0e854085650d93d5edd2 ""
   (generated)
   "report.aux"
   "report.log"
