@@ -57,11 +57,11 @@ $$O = C \sum^N_{i=1}\max\left(0, 1 - y_i \left(\mathbf{w}^T\mathbf{x}_i + w_0\ri
 \subsection{Model Training and Testing}
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.5\linewidth]{1.1.png}
+    \includegraphics[width=0.5\linewidth]{1.11.png}
     \caption{\centering Graph of the cost and accuracy of training over iterations}
 \end{figure}
 
-The model produced by the run shown above had an accuracy of 0.9677 and an F1 score of 0.7241 when run on the test data. While initially very high, the cost of each iteration reduced dramatically, quickly falling below 100 before stabilising. In the first 25 iterations, the accuracy was rather spiky, suggesting that the model's parameters are oscillating around the optimal values before stabilising in the later iterations. This is probably caused by the fact that I chose to initialise my weights as zeros instead of randomising them, as this behaviour was not observed when I used randomised weights.
+The model produced by the run shown above had an accuracy of 0.9657 and an F1 score of 0.7213 when run on the test data. While initially very high, the cost of each iteration reduced dramatically, quickly falling below 100 before stabilising after ~10 iterations. In the first 25 iterations, the accuracy was rather spiky, suggesting that the model's parameters are oscillating around the optimal values before stabilising in the later iterations. This is probably caused by the fact that I chose to initialise my weights as zeros instead of randomising them, as this behaviour was not observed when I used randomised weights.
 
 \subsection{Learning Rate Analysis}
 

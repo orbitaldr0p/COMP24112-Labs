@@ -111,10 +111,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 OUTPUT report.pdf
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./Images/1.1.png
-INPUT ./Images/1.1.png
-INPUT ./Images/1.1.png
-INPUT ./Images/1.1.png
+INPUT ./Images/1.11.png
+INPUT ./Images/1.11.png
+INPUT ./Images/1.11.png
+INPUT ./Images/1.11.png
 INPUT ./Images/1.21.png
 INPUT ./Images/1.21.png
 INPUT ./Images/1.21.png
